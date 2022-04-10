@@ -1,5 +1,5 @@
 # 김홍원
-<img align="right" src="/github-metrics.svg" alt="Metrics" width="400">
+<img align="right" src="/github-metrics.svg" alt="Metrics" width="350">
 
 - 이메일: khw742002@gmail.com  
 - 블로그: https://khw742002.tistory.com/ 
