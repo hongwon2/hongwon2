@@ -1,11 +1,11 @@
 # 김홍원
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+
 
 - 이메일: khw742002@gmail.com  
 - 블로그: https://khw742002.tistory.com/ 
 - 깃헙: https://github.com/hongwon2 
 
-
+<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
 
 ## Summary
 2023년 데이터 분석가로 사회의 첫 발을 내디딜 준비를 하고 있습니다
