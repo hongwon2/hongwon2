@@ -15,7 +15,7 @@
 >
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=Pandas&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/></a>  
+<img src="https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/scikit learn-f7931e?style=flat-square&logo=scikit-learn&logoColor=white"/></a>
 
 
