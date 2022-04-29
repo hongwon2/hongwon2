@@ -34,6 +34,6 @@
   - [혼자 공부하는 머신러닝 + 딥러닝](https://g.co/kgs/3XhrQP)
 
 - 동아대 IT 취업 동아리 SQL 스터디(2022.03.29 ~ 진행중)
-  - [데이터분석을 위한 SQL 레시피](https://g.co/kgs/wPVrmG)
+  - [데이터분석을 위한 SQL 레시피](https://github.com/donga-it-club/SQL-STUDY)
 
 ## Projects
