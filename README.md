@@ -30,10 +30,6 @@
 >데이터베이스시스템(A+),데이터베이스구축(A+),빅데이터분석(A+)
 
 **Study**
-- 동아대 IT 취업 동아리 머신러닝 스터디(2022.03.29 ~ 진행중)
-  - [혼자 공부하는 머신러닝 + 딥러닝](https://g.co/kgs/3XhrQP)
 
-- 동아대 IT 취업 동아리 SQL 스터디(2022.03.29 ~ 진행중)
-  - [데이터분석을 위한 SQL 레시피](https://github.com/donga-it-club/SQL-STUDY)
 
 ## Projects
