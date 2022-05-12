@@ -1,7 +1,7 @@
 # 김홍원
 
 
-- 이메일: khw742002@gmail.com  
+- 이메일: khw742002@naver.com
 - 블로그: https://khw742002.tistory.com/ 
 - 깃헙: https://github.com/hongwon2 
 
