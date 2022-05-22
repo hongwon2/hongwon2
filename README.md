@@ -22,7 +22,7 @@
 ## 앞으로 공부 할 것들
 - 데이터 분석을 위한 데이터 로깅 및 A/B Test 설계, 진행 및 관리
 - 서비스 KPI 정의 후 시각화 등을 통한 관리 자동화
-- Bigquery를 활용하여 ETL paradigm 으로 데이터 파이프라인을 구현
+- Bigquery를 활용하여 ELT paradigm 으로 데이터 파이프라인을 구현
 - Holistics을 사용하여 BI
 ## Experience
 >동아대학교 - AWS IT 커뮤니티(2022 ~ )
