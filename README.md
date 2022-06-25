@@ -1,11 +1,12 @@
 # 김홍원
 
+<img align="right" src="/github-metrics.svg" alt="Metrics" width="400">
 
-- 이메일 : khw742002@naver.com
-- 블로그 : https://khw742002.tistory.com/ 
-- 링크드인 : https://www.linkedin.com/in/%ED%99%8D%EC%9B%90-%EA%B9%80-b03396207/
+- [이메일](khw742002@naver.com)
+- [블로그](https://khw742002.tistory.com/)
+- [링크드인](https://www.linkedin.com/in/%ED%99%8D%EC%9B%90-%EA%B9%80-b03396207/)
 
-<img align="center" src="/github-metrics.svg" alt="Metrics" width="400">
+
 
 ## Summary
 2023년 데이터 분석가로 사회의 첫 발을 내디딜 준비를 하고 있습니다
