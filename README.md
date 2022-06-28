@@ -4,7 +4,7 @@
 
 - [이메일](khw742002@naver.com)
 - [블로그](https://khw742002.tistory.com/)
-- [링크드인](https://www.linkedin.com/in/%ED%99%8D%EC%9B%90-%EA%B9%80-b03396207/)
+- [링크드인](hhttps://www.linkedin.com/in/%ED%99%8D%EC%9B%90-%EA%B9%80-944666243/)
 
 
 
