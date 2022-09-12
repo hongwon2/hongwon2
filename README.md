@@ -51,6 +51,16 @@
   - A/B 테스트 등 그로스해킹을 위한 다양한 방법론
   - 그로스팀 구성 및 성장을 위한 조직 문화 
 
+## Publish
+- [기본적인 매출 데이터 분석 '한방 정리' 쿼리](https://khw742002.tistory.com/27?category=1006664)
+- [고객 마스터 데이터를 카테고리화(성별,연령대)하여 집계하기](https://khw742002.tistory.com/42?category=1006664)
+- [샘플 매출 데이터로 Z 차트 구성하기](https://khw742002.tistory.com/28?category=1006664)
+- [업무 데이터와 로그 데이터](https://khw742002.tistory.com/13?category=1006663)
+- [그로스 해킹이란? - 리그 오브 레전드와 오버워치의 차이점](https://khw742002.tistory.com/40?category=1006663)
+- [AARRR이란?](https://khw742002.tistory.com/46?category=1006663)
+- [에이블리(ABLY)의 "샥-출발" - AARRR 분석](https://khw742002.tistory.com/47?category=1006663)
+- [ETL vs ELT 초보 데이터 분석가들을 위한 가장 쉬운 설명](https://khw742002.tistory.com/31?category=1016894)
+- [Pycaret을 사용한 간단한 머신러닝 모델 구축 프로젝트](https://khw742002.tistory.com/41?category=1016895)
 ## certificate
 >ADsP, SQLD, 컴퓨터활용능력1급
 
