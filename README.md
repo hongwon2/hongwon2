@@ -60,6 +60,7 @@
 - [에이블리(ABLY)의 "샥-출발" - AARRR 분석](https://khw742002.tistory.com/47?category=1006663)
 - [ETL vs ELT 초보 데이터 분석가들을 위한 가장 쉬운 설명](https://khw742002.tistory.com/31?category=1016894)
 - [Pycaret을 사용한 간단한 머신러닝 모델 구축 프로젝트](https://khw742002.tistory.com/41?category=1016895)
+- [[AWS]AWS 기반 데이터분석 파이프라인 구축 - Analytics on AWS 워크숍 [시작]](https://khw742002.tistory.com/32?category=1006667)
 ## certificate
 >ADsP, SQLD, 컴퓨터활용능력1급
 
