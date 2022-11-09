@@ -17,11 +17,6 @@
 <img src="https://img.shields.io/badge/scikit learn-f7931e?style=flat-square&logo=scikit-learn&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=Google Cloud&logoColor=white"/></a>
 
-## 앞으로 공부 할 것들
-- 데이터 분석을 위한 데이터 로깅 및 A/B Test 설계, 진행 및 관리
-- 서비스 KPI 정의 후 시각화 등을 통한 관리 자동화
-- Bigquery를 활용하여 ELT paradigm 으로 데이터 파이프라인을 구현
-- Holistics을 사용하여 BI
 ## Experience
 >동아대학교 - AWS IT 커뮤니티(2022 ~ )
 ## Education
@@ -68,3 +63,9 @@
 - 분석 플랫폼 구축 엔지니어링
 - 분석 방법론 기반 사용자 데이터 분석
 - 데이터 분석 결과 기반 마케팅 
+
+## 앞으로 공부 할 것들
+- 데이터 분석을 위한 데이터 로깅 및 A/B Test 설계, 진행 및 관리
+- 서비스 KPI 정의 후 시각화 등을 통한 관리 자동화
+- Bigquery를 활용하여 ELT paradigm 으로 데이터 파이프라인을 구현
+- Holistics을 사용하여 BI
