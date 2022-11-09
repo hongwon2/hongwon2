@@ -1,7 +1,5 @@
 # 김홍원
 
-<img align="right" src="/github-metrics.svg" alt="Metrics" width="400">
-
 - [블로그](https://khw742002.tistory.com/)
 - [링크드인](https://www.linkedin.com/in/%ED%99%8D%EC%9B%90-%EA%B9%80-944666243/)
 - [포트폴리오](https://endurable-waiter-538.notion.site/Hongwon-s-Portfolio-d66de175156340a7ab543f04981f0946)
