@@ -57,15 +57,3 @@
 ## certificate
 >ADsP, SQLD, 컴퓨터활용능력1급
 
-## Projects (2022-08-01 ~  )
-> [**디스이즈 앱 사용자 분석 프로젝트**](https://endurable-waiter-538.notion.site/Team-Page-48a3e31111cb4b799a81297bd3f62111)
-- 사용자 분석을 위한 로그 설계
-- 분석 플랫폼 구축 엔지니어링
-- 분석 방법론 기반 사용자 데이터 분석
-- 데이터 분석 결과 기반 마케팅 
-
-## 앞으로 공부 할 것들
-- 데이터 분석을 위한 데이터 로깅 및 A/B Test 설계, 진행 및 관리
-- 서비스 KPI 정의 후 시각화 등을 통한 관리 자동화
-- Bigquery를 활용하여 ELT paradigm 으로 데이터 파이프라인을 구현
-- Holistics을 사용하여 BI
