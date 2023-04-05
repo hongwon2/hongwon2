@@ -5,6 +5,15 @@
 - [블로그](https://khw742002.tistory.com/)
 - [포트폴리오](https://endurable-waiter-538.notion.site/Hongwon-s-Portfolio-d66de175156340a7ab543f04981f0946)
 
+## Skill
+### Analysis                  
+- BigQuery, Oracle, Excel
+- Python(Pandas,Numpy), R
+- Google Optimize
+### B.I
+- GA4, Amplitude
+- Tableau, Looker, Power BI, Excel
+
 ## Project
 [**Hongwon's DATA 블로그 방문자 데이터 분석**](https://endurable-waiter-538.notion.site/BigQuery-Hongwon-s-DATA-45bb93ac109e4491a18deb504f8b353a)
 - **Skill** : Bigquery(SQL), GA4, Google Optimize  
